@@ -1,7 +1,7 @@
 # Informacion de cursos informaticos
 
 Descripcion e imagen en el Readme
-## Estamos haciendo el ejercio 2 del curso
+## Estamos haciendo el ejercicio 2 del curso
 ![afiche INA](Imagenes/AFICHECERTIFICACION2.jpg)
 
-Texto para agregar al read me
+Cambio de titulo por Adrian
